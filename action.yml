@@ -15,4 +15,5 @@ runs:
         pwd
         df -h 
         free -m
+        ps -ef
       shell: bash
